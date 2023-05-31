@@ -10,3 +10,6 @@
 3.  Marmoset
 4.  Substance Painter
 5.  Unreal Engine
+
+### Ниже будет мем про программирование 
+![мем](https://cs.pikabu.ru/post_img/2013/06/25/6/1372147347_277014456.png)
